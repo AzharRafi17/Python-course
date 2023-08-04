@@ -14,4 +14,23 @@ x+y
 29
 g = input ("ENTER YOUR NUMBER HERE:")
 ENTER YOUR NUMBER HERE:45
+pow(5,4)
+625
+pow(6,2)
+36
+abs (3)
+3
+abs(-29)
+29
+import math
+math.floor(12.7)
+12
+math.sqrt(81)
+9.0
+ali= math.sqrt
+ali(89)
+9.433981132056603
+ali=math.floor
+ali(6.5)
+6
 //THESE ARE THE BASIC CONCEPTS OF PYTHON WHICH I HAVE DONE.
