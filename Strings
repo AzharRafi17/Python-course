@@ -1,0 +1,6 @@
+a = "Azhar"
+b = "Ali"
+a + b
+'AzharAli'
+"They said,\"hey Azhar\"to me"
+'They said,"hey Azhar"to me'
