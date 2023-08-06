@@ -1,0 +1,14 @@
+q.1 (substring from a string)
+Name = "MUHAMMAD AZHAR RAFI"
+print(name.split())
+['MUHAMMAD', 'AZHAR', 'RAFI']
+
+q.2(reverse string)
+name = "MUHAMMAD AZHAR RAFI"
+print(name[::-1])
+IFAR RAHZA DAMMAHUM
+
+q.3(extract even numbers)
+list=[1,2,3,4,5,6,7,8,9,10,11,12,13,14,32,67,16,17,18,19,20,21,22,23,245,43,34,65]
+list[1::2]
+[2, 4, 6, 8, 10, 12, 14, 67, 17, 19, 21, 23, 43, 65]
