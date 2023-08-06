@@ -1,0 +1,30 @@
+q.1(check even and odd number)
+num = int (input("Enter Number: "))
+if (num % 2 )==0:
+    print("The number is EVEN:")
+else:
+    print ("The number is ODD:")
+Enter Number: 86
+The number is EVEN
+Enter Number: 49
+The number is ODD
+
+q.2(check number is +,-, or 0)
+num = int(input("Enter a number: "))
+if num > 0:
+   print("Positive number")
+elif num == 0:
+   print("Zero")
+else:
+   print("Negative number")
+Enter a number: 45
+Positive number
+Enter a number: -56
+Negative number
+Enter a number: 0
+Zero
+
+q.3(find largest number)
+dic=[1,23,44,67,90,87,54,33]
+print("Largest number of the list is:", max(dic))
+Largest number of the list is: 90
