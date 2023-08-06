@@ -1,0 +1,23 @@
+q.1(count vowels)
+ubject=input("Enter string to find vowels:")
+vowels=0
+for i in subject:
+      if(i=='a' or i=='e' or i=='i' or i=='o' or i=='u' or i=='A' or i=='E' or i=='I' or i=='O' or i=='U'):
+            vowels=vowels+1
+print("Number of vowels are:" ,vowels)
+Enter string to find vowels:Hello AzHar hOw arE YoU
+Number of vowels are: 9
+
+q.2(convert string to lower and uppeer case)
+line="I am a Student Of COMPUTER science at MAJU"
+line.upper()
+'I AM A STUDENT OF COMPUTER SCIENCE AT MAJU'
+line.lower()
+'i am a student of computer science at maju'
+
+q.3(check if a word exists in a string)
+sentence = "python is a language of computer:"
+sentence.find('computer')
+24
+sentence.find('hello')
+-1
