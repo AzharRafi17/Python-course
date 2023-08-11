@@ -1,0 +1,14 @@
+numbers=[23,56,67,45,86,49,75,90,5,32]
+numbers.sort()
+numbers
+[5, 23, 32, 45, 49, 56, 67, 75, 86, 90]
+sorted('MuhammadAzharRafI')
+['A', 'I', 'M', 'R', 'a', 'a', 'a', 'a', 'd', 'f', 'h', 'h', 'm', 'm', 'r', 'u', 'z']
+[34,69,88,43,23,12]
+[34, 69, 88, 43, 23, 12]
+marks=(75,88,90,82,65)
+marks
+(75, 88, 90, 82, 65)
+marks[4]
+65
+#tuple and list are mostly same but we can't do fucnction on tuple like we do with list tuple can give us number back only.
