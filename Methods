@@ -1,0 +1,19 @@
+face=[1234]
+face.append(45)
+face
+[1234, 45]
+fruit=['apple','banana','mango','grapes']
+fruit
+['apple', 'banana', 'mango', 'grapes']
+fruits=['apple','apple','apple','apple','apple','banana','banana','banana','banana','banana','banana','banana','banana','mango','mango','mango','mango','mango','mango','mango','mango','mango','mango','mango','grapes','grapes','grapes']
+fruits.count('mango')
+11
+fruits.count('apple')
+5
+fruits.count('banana')
+8
+counting=[1,2,3,4,5]
+aagekicounting=[6,7,8,9,10]
+counting.extend(aagekicounting)
+counting
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
