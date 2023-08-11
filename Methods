@@ -17,3 +17,19 @@ aagekicounting=[6,7,8,9,10]
 counting.extend(aagekicounting)
 counting
 [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+sentence=['how','are','you','is','everything','alright']
+sentence.index('is')
+3
+sentence.insert(3,'dear')
+sentence
+['how', 'are', 'you', 'dear', 'is', 'everything', 'alright']
+sentence.pop(4)
+'is'
+sentence
+['how', 'are', 'you', 'dear', 'everything', 'alright']
+sentence.remove('dear')
+sentence
+['how', 'are', 'you', 'everything', 'alright']
+sentence.reverse()
+sentence
+['alright', 'everything', 'you', 'are', 'how']
