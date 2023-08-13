@@ -1,0 +1,9 @@
+thing="car"
+car="honda"
+if thing=="car":
+    if car=="honda":
+        print("this is good for u")
+    else:
+        print("there is no use of this")
+else:
+    print("bad choice")
