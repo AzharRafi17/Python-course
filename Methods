@@ -30,6 +30,7 @@ sentence
 sentence.remove('dear')
 sentence
 ['how', 'are', 'you', 'everything', 'alright']
+
 sentence.reverse()
 sentence
 ['alright', 'everything', 'you', 'are', 'how']
