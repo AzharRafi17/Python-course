@@ -1,0 +1,10 @@
+a = 1
+while a <= 5:
+    print(a)
+    a += 1
+gl=['bread','milk','pape','eggs','fruits']
+for food in gl:
+    print (('I WANT ') + food)
+while 1:
+    name=input('ENTER NAME PLEASE: ')
+    if name == 'azhar': break
